@@ -1,0 +1,11 @@
+{
+    "SUBASTAS_API":{
+        "URL" : "http://localhost:9000/subastas/all"
+    },
+    "NEW_OFFERT_API":{
+        "URL" : "http://localhost:9000/subastas/newoffert"
+    },
+    "PUJAS":{
+        "URL" : "http://localhost:9000/pujas/all"
+    }
+}

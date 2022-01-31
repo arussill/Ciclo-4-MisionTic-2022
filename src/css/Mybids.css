@@ -1,0 +1,5 @@
+/* este contenedor tambien sirve para Subastas y SubastasEspecificas el id esta en el div de App*/
+#contenedor { 
+    padding-left: 78px;
+    padding-right: 78px;
+}
